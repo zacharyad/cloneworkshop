@@ -5,10 +5,10 @@ This script should be put in your $PATH so it can be run globally, as cloneworks
 
 
 
-clone or copy just the file cloneworkshop.sh from this repo into  without the .sh (`mv cloneworkshop.sh cloneworkshop`)
-run `chmod +x cloneworkshop` within usr/local/bin
-start a new terminal
-run the command in the desired folder you want the repo cloned.
+-clone or copy just the file cloneworkshop.sh from this repo into  without the .sh (`mv cloneworkshop.sh cloneworkshop`)
+-run `chmod +x cloneworkshop` within usr/local/bin
+-start a new terminal
+-run the command in the desired folder you want the repo cloned.
 
 
 
